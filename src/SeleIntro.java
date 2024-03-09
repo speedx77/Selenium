@@ -12,9 +12,11 @@ public class SeleIntro {
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.google.com");
+		driver.get("https://www.paramountplus.com");
 		
 		driver.close();
+		
+		
 
 	}
 

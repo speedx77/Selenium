@@ -17,11 +17,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/testng-7.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/jcommander-1.82.jar"/>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/selenium-java-4.9.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/selenium-server-3.141.59.jar"/>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/selenium-api-4.9.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/BurnettR0815/Downloads/selenium-chrome-driver-4.9.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
