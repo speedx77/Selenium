@@ -12,9 +12,15 @@ public class SeleIntro {
 		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.paramountplus.com");
+		driver.get("https://rahulshettyacademy.com/");
 		
-		driver.close();
+		System.out.println(driver.getTitle());
+		
+		System.out.println(driver.getCurrentUrl());
+		
+		driver.close(); //closes out of original tab (if new ones are opened it won't close out)
+		
+		driver.quit(); //quits entire window/browser sesh
 		
 		
 
